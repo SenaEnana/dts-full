@@ -40,21 +40,21 @@ const Hero: React.FC = () => {
             <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-10 items-center">
 
                 <div className="z-10">
-                    <h2 className="text-4xl md:text-5xl font-extrabold mb-6 leading-tight">
+                    <h2 className="text-4xl md:text-5xl font-heading font-extrabold mb-6 leading-tight">
                         Your Gateway to International Education
                     </h2>
-                    <p className="mb-8 text-lg font-medium opacity-90">
+                    <p className="mb-8 text-lg font-medium font-body opacity-90">
                         We connect students with trusted instructors for personalized home tutoring.
                     </p>
                     <a
                         href="#contact"
-                        className="inline-block bg-amber-600 text-black px-8 py-3 rounded-full font-semibold shadow-lg hover:bg-gray-100 transition-all hover:scale-105"
+                        className="inline-block font-body bg-amber-600 text-black px-8 py-3 rounded-full font-semibold shadow-lg hover:bg-gray-100 transition-all hover:scale-105"
                     >
                         Get Started
                     </a>
                 </div>
 
-                <div className="relative w-full overflow-hidden rounded-2xl bg-white/20 backdrop-blur-sm p-4 h-[450px] flex items-center justify-center">
+                <div className="relative w-full overflow-hidden font-body rounded-2xl bg-white/20 backdrop-blur-sm p-4 h-[450px] flex items-center justify-center">
                     {carouselData.map((slide, index) => (
                         <div
                             key={index}
