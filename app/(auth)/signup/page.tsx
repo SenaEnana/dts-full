@@ -108,3 +108,6 @@ const LockIcon = () => (
 );
 
 export default Signup;
+
+
+///am starting to modify my project to next.js so that i can deploy it easily so here is the thing I want I have already changed the react project to next
