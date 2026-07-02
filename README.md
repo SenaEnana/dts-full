@@ -45,7 +45,7 @@ cd dts-full
 npm install
 
 npm run dev
-
+```
 ## 🎯 Project Goals
 Connect students with qualified instructors
 Simplify tutor management
