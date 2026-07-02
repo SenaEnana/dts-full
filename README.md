@@ -47,10 +47,10 @@ npm install
 npm run dev
 ```
 ## 🎯 Project Goals
-Connect students with qualified instructors
-Simplify tutor management
-Provide a secure platform for both students and tutors
-Deliver a responsive and intuitive user experience
+- Connect students with qualified instructors
+- Simplify tutor management
+- Provide a secure platform for both students and tutors
+- Deliver a responsive and intuitive user experience
 
 ## 👨‍💻 Author
 
