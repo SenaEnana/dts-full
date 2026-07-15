@@ -3,7 +3,7 @@
 [MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 [Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# 🎓 Student Home Tutor or DoorTutor System
+# 🎓 Student Home Tutor or DoorStep Tutor System
 
 A web application designed to connect students with instructors for home tutoring. The platform simplifies tutor discovery, communication, and user management through a secure and user-friendly interface.
 
